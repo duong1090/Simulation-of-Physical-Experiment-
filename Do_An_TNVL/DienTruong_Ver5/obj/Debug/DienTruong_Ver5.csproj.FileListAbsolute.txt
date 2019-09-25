@@ -1,0 +1,11 @@
+E:\Learning\Thi nghiem Vat Ly 1\Do_An_TNVL\DienTruong_Ver5\bin\Debug\DienTruong_Ver5.exe.config
+E:\Learning\Thi nghiem Vat Ly 1\Do_An_TNVL\DienTruong_Ver5\bin\Debug\DienTruong_Ver5.exe
+E:\Learning\Thi nghiem Vat Ly 1\Do_An_TNVL\DienTruong_Ver5\bin\Debug\DienTruong_Ver5.pdb
+E:\Learning\Thi nghiem Vat Ly 1\Do_An_TNVL\DienTruong_Ver5\obj\Debug\DienTruong_Ver5.csprojAssemblyReference.cache
+E:\Learning\Thi nghiem Vat Ly 1\Do_An_TNVL\DienTruong_Ver5\obj\Debug\DienTruong_Ver5.Form1.resources
+E:\Learning\Thi nghiem Vat Ly 1\Do_An_TNVL\DienTruong_Ver5\obj\Debug\DienTruong_Ver5.Properties.Resources.resources
+E:\Learning\Thi nghiem Vat Ly 1\Do_An_TNVL\DienTruong_Ver5\obj\Debug\DienTruong_Ver5.csproj.GenerateResource.cache
+E:\Learning\Thi nghiem Vat Ly 1\Do_An_TNVL\DienTruong_Ver5\obj\Debug\DienTruong_Ver5.csproj.CoreCompileInputs.cache
+E:\Learning\Thi nghiem Vat Ly 1\Do_An_TNVL\DienTruong_Ver5\obj\Debug\DienTruong_Ver5.exe
+E:\Learning\Thi nghiem Vat Ly 1\Do_An_TNVL\DienTruong_Ver5\obj\Debug\DienTruong_Ver5.pdb
+E:\Learning\Thi nghiem Vat Ly 1\Do_An_TNVL\DienTruong_Ver5\obj\Debug\DienTruong_Ver5.Form2.resources
